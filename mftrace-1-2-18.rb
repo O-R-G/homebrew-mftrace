@@ -1,4 +1,4 @@
-class Mftrace@1.2.18 < Formula
+class Mftrace-1-2-18 < Formula
   desc "Trace TeX bitmap font to PFA, PFB, or TTF font"
   homepage "https://lilypond.org/mftrace/"
   # url "https://lilypond.org/downloads/sources/mftrace/mftrace-1.2.20.tar.gz"
